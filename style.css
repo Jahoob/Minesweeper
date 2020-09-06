@@ -19,3 +19,7 @@ body {
 .bomb {
   background: orange;
 }
+
+.checked {
+  background: red;
+}
